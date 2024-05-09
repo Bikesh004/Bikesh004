@@ -1,4 +1,4 @@
-![logo](https://github.com/Bikesh004/Bikesh004/blob/main/welcome%20to%20our%20GITHUB%20PROFILE%20(1).png)
+![logo](https://github.com/Bikesh004/Bikesh004/blob/main/github-header-image%20(3).png)
 <h1 align="center">Hi 👋, I'm Bikesh Kumar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
